@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react';
 // Frontend dev server on 5173; API calls to /api are proxied to the Express
 // backend on 5000 so there are no CORS surprises during local development.
 export default defineConfig({
+  base: '/Bharatverse1/',
   plugins: [react()],
   server: {
     port: 5173,
