@@ -1,0 +1,15 @@
+{
+  "name": "bharatverse",
+  "version": "1.0.0",
+  "description": "BharatVerse — AI-powered cultural tourism & local business discovery platform (SIH 2026, SIH26197)",
+  "private": true,
+  "scripts": {
+    "seed": "npm --prefix server run seed",
+    "dev": "concurrently -n SERVER,CLIENT -c green,cyan \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4"
+  }
+}

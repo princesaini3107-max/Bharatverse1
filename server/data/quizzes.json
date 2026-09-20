@@ -1,0 +1,33 @@
+[
+  {
+    "id": "quiz-monuments", "title": "Heritage Monuments of India", "category": "Monuments", "difficulty": "Easy",
+    "description": "How well do you know India's most famous landmarks?",
+    "questions": [
+      { "q": "The Taj Mahal was built by which Mughal emperor?", "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"], "answer": 1, "fact": "Shah Jahan built the Taj Mahal (c. 1631–1653) in memory of his wife Mumtaz Mahal." },
+      { "q": "In which city is the Golden Temple located?", "options": ["Patiala", "Chandigarh", "Amritsar", "Ludhiana"], "answer": 2, "fact": "The Golden Temple (Harmandir Sahib) is in Amritsar, the spiritual centre of Sikhism." },
+      { "q": "The Qutub Minar is made primarily of which material?", "options": ["White marble", "Red sandstone", "Granite", "Basalt"], "answer": 1, "fact": "The Qutub Minar is built mainly of red sandstone with marble in its upper storeys." },
+      { "q": "Which ancient university's ruins are a UNESCO site in Bihar?", "options": ["Takshashila", "Vikramshila", "Nalanda", "Vallabhi"], "answer": 2, "fact": "Nalanda Mahavihara taught up to 10,000 students before its destruction around 1200 CE." },
+      { "q": "Humayun's Tomb is said to have inspired which later monument?", "options": ["Red Fort", "Taj Mahal", "Charminar", "Gateway of India"], "answer": 1, "fact": "Humayun's Tomb (1572) was the first grand Mughal garden-tomb and a template for the Taj Mahal." }
+    ]
+  },
+  {
+    "id": "quiz-festivals", "title": "Festivals of India", "category": "Festivals", "difficulty": "Easy",
+    "description": "Test your knowledge of India's vibrant festivals.",
+    "questions": [
+      { "q": "Chhath Puja is dedicated to which deity?", "options": ["Lord Shiva", "The Sun God", "Goddess Durga", "Lord Ganesha"], "answer": 1, "fact": "Chhath Puja worships the Sun God (Surya) and Chhathi Maiya; it is Bihar's most important festival." },
+      { "q": "Baisakhi marks the founding of the Khalsa and is celebrated mainly in?", "options": ["Kerala", "Punjab", "Assam", "Gujarat"], "answer": 1, "fact": "Baisakhi is Punjab's harvest festival and the Sikh new year, commemorating the Khalsa founded in 1699." },
+      { "q": "'Dev Deepawali', when ghats are lit with countless lamps, is celebrated in?", "options": ["Haridwar", "Varanasi", "Ujjain", "Prayagraj"], "answer": 1, "fact": "Dev Deepawali lights up the ghats of Varanasi about fifteen days after Diwali." },
+      { "q": "The Pushkar Fair in Rajasthan is best known for trading which animal?", "options": ["Horses", "Camels", "Elephants", "Goats"], "answer": 1, "fact": "The Pushkar Camel Fair is one of the world's largest camel and livestock fairs." }
+    ]
+  },
+  {
+    "id": "quiz-crafts", "title": "Traditional Crafts & Textiles", "category": "Crafts", "difficulty": "Medium",
+    "description": "From embroidery to pottery — how well do you know Indian crafts?",
+    "questions": [
+      { "q": "Phulkari embroidery originates from which state?", "options": ["Punjab", "Bihar", "Rajasthan", "Delhi"], "answer": 0, "fact": "Phulkari ('flower work') is the traditional silk-floss embroidery of Punjab." },
+      { "q": "Madhubani painting is also known as?", "options": ["Warli art", "Mithila painting", "Pattachitra", "Kalamkari"], "answer": 1, "fact": "Madhubani is also called Mithila painting, after the Mithila region of Bihar." },
+      { "q": "Jaipur blue pottery is unusual because it contains no?", "options": ["Water", "Clay", "Colour", "Glaze"], "answer": 1, "fact": "Blue pottery is made from quartz, glass and borax — it contains no clay." },
+      { "q": "Chikankari, the delicate white shadow-work embroidery, is from?", "options": ["Lucknow", "Jaipur", "Patna", "Amritsar"], "answer": 0, "fact": "Chikankari is the signature hand embroidery of Lucknow, Uttar Pradesh." }
+    ]
+  }
+]

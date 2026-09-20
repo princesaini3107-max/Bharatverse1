@@ -1,0 +1,19 @@
+[
+  { "id": "dal-baati-churma", "state_id": "rajasthan", "name": "Dal Baati Churma", "type": "Main", "veg": true, "description": "Baked wheat balls (baati) dunked in ghee, served with spiced lentils (dal) and a sweet crushed-wheat churma — the signature meal of Rajasthan.", "where": "Jaipur, Jodhpur, across Rajasthan" },
+  { "id": "laal-maas", "state_id": "rajasthan", "name": "Laal Maas", "type": "Main", "veg": false, "description": "A fiery Rajput mutton curry coloured deep red with Mathania chillies — historically a hunter's dish.", "where": "Udaipur, Jodhpur" },
+  { "id": "pyaaz-kachori", "state_id": "rajasthan", "name": "Pyaaz Kachori", "type": "Snack", "veg": true, "description": "A flaky deep-fried pastry stuffed with spiced onions, a Jodhpur and Jaipur breakfast staple.", "where": "Jaipur, Jodhpur" },
+
+  { "id": "sarson-saag-makki-roti", "state_id": "punjab", "name": "Sarson da Saag & Makki di Roti", "type": "Main", "veg": true, "description": "Slow-cooked mustard greens topped with white butter, served with cornmeal flatbread — the winter soul-food of Punjab.", "where": "Across Punjab" },
+  { "id": "amritsari-kulcha", "state_id": "punjab", "name": "Amritsari Kulcha", "type": "Main", "veg": true, "description": "A crisp, stuffed and tandoor-baked bread served with chole and butter, an Amritsar icon.", "where": "Amritsar" },
+  { "id": "lassi", "state_id": "punjab", "name": "Punjabi Lassi", "type": "Drink", "veg": true, "description": "A thick, sweet churned-yogurt drink topped with a dollop of malai (cream), served in a tall glass.", "where": "Across Punjab" },
+
+  { "id": "awadhi-biryani", "state_id": "uttar-pradesh", "name": "Lucknawi (Awadhi) Biryani", "type": "Main", "veg": false, "description": "A delicate dum-cooked biryani of fragrant rice and meat, milder and more perfumed than its Hyderabadi cousin.", "where": "Lucknow" },
+  { "id": "tunday-kebab", "state_id": "uttar-pradesh", "name": "Tunday Kababi", "type": "Main", "veg": false, "description": "Melt-in-the-mouth minced-meat galouti kebabs from Lucknow, said to use over a hundred spices.", "where": "Lucknow" },
+  { "id": "banarasi-paan", "state_id": "uttar-pradesh", "name": "Banarasi Paan", "type": "Dessert", "veg": true, "description": "A betel-leaf preparation with gulkand and areca, the traditional after-meal ritual of Varanasi.", "where": "Varanasi" },
+
+  { "id": "litti-chokha", "state_id": "bihar", "name": "Litti Chokha", "type": "Main", "veg": true, "description": "Roasted wheat balls stuffed with spiced sattu (roasted gram flour), served with mashed brinjal-potato-tomato chokha — Bihar's defining dish.", "where": "Patna, across Bihar" },
+  { "id": "khaja", "state_id": "bihar", "name": "Silao Khaja", "type": "Dessert", "veg": true, "description": "A layered, flaky deep-fried sweet from Silao near Nalanda, crisp and soaked in syrup.", "where": "Silao, Nalanda" },
+
+  { "id": "chaat-chandni-chowk", "state_id": "delhi", "name": "Chandni Chowk Chaat", "type": "Snack", "veg": true, "description": "The tangy street-food universe of aloo tikki, gol gappe and dahi bhalla in Old Delhi's lanes.", "where": "Chandni Chowk, Old Delhi" },
+  { "id": "butter-chicken", "state_id": "delhi", "name": "Butter Chicken", "type": "Main", "veg": false, "description": "Tandoori chicken in a rich tomato-butter gravy, invented in Delhi's Moti Mahal and now world-famous.", "where": "Delhi" }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": "teej", "state_id": "rajasthan", "name": "Teej", "season": "Monsoon (Jul–Aug)", "description": "A monsoon festival welcoming the rains, when women in green swing on decorated jhoolas, apply henna and celebrate with processions of the goddess Parvati." },
+  { "id": "pushkar-fair", "state_id": "rajasthan", "name": "Pushkar Camel Fair", "season": "Nov", "description": "One of the world's largest camel and livestock fairs, combining trade with folk music, competitions and a sacred lake pilgrimage." },
+  { "id": "baisakhi", "state_id": "punjab", "name": "Baisakhi", "season": "Apr", "description": "The harvest festival and Sikh new year marking the founding of the Khalsa in 1699, celebrated with bhangra, giddha and gurdwara processions." },
+  { "id": "hola-mohalla", "state_id": "punjab", "name": "Hola Mohalla", "season": "Mar", "description": "A Sikh festival of martial arts, mock battles and Nihang horsemanship held at Anandpur Sahib." },
+  { "id": "dev-deepawali", "state_id": "uttar-pradesh", "name": "Dev Deepawali", "season": "Nov", "description": "The 'Diwali of the Gods' in Varanasi, when the ghats are lit with hundreds of thousands of earthen lamps." },
+  { "id": "ram-navami-ayodhya", "state_id": "uttar-pradesh", "name": "Ram Navami", "season": "Mar–Apr", "description": "The birth of Lord Rama, celebrated with special fervour in Ayodhya with processions and recitations of the Ramayana." },
+  { "id": "chhath-puja", "state_id": "bihar", "name": "Chhath Puja", "season": "Oct–Nov", "description": "A four-day festival of thanksgiving to the Sun God and Chhathi Maiya, when devotees stand in rivers at dawn and dusk offering arghya — Bihar's most important festival." },
+  { "id": "buddha-purnima", "state_id": "bihar", "name": "Buddha Purnima", "season": "May", "description": "The birth, enlightenment and death of the Buddha, observed at Bodh Gaya with prayer, meditation and processions." },
+  { "id": "phoolwalon-ki-sair", "state_id": "delhi", "name": "Phoolwalon Ki Sair", "season": "Sep–Oct", "description": "A centuries-old Delhi procession of flower-sellers celebrating communal harmony, offering floral fans at a temple and a dargah." },
+  { "id": "qutub-festival", "state_id": "delhi", "name": "Qutub Festival", "season": "Nov–Dec", "description": "A cultural festival of classical music and dance staged against the backdrop of the Qutub Minar (demo: schedule varies year to year)." }
+]

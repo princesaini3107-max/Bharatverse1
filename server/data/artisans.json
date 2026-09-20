@@ -1,0 +1,47 @@
+[
+  {
+    "id": "seed-artisan-madhubani", "name": "Sunaina Devi", "craft": "Madhubani Painting", "region": "Madhubani, Bihar",
+    "state_id": "bihar", "experience_years": 22,
+    "story": "Sunaina learned Mithila painting from her mother and grandmother, painting wedding walls before ever touching paper. Today she leads a women's collective of 30 artists and teaches the Kachni fine-line style to a new generation.",
+    "skills": ["Bharni (colour fill)", "Kachni (line work)", "Natural pigments"],
+    "products": ["Wall panels", "Silk scarves", "Greeting cards"],
+    "contact": "demo — enquire via BharatVerse",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madhubani_paintings.jpg"
+  },
+  {
+    "id": "seed-artisan-phulkari", "name": "Gurmeet Kaur", "craft": "Phulkari Embroidery", "region": "Patiala, Punjab",
+    "state_id": "punjab", "experience_years": 18,
+    "story": "Gurmeet revived her grandmother's bagh phulkari patterns after they nearly disappeared to machine embroidery. Her cooperative now supplies hand-embroidered dupattas to buyers across India.",
+    "skills": ["Darning stitch", "Bagh (full-cover) work", "Natural-dyed floss"],
+    "products": ["Dupattas", "Shawls", "Cushion covers"],
+    "contact": "demo — enquire via BharatVerse",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phulkari_Dupatta.jpg"
+  },
+  {
+    "id": "seed-artisan-bluepottery", "name": "Mohan Lal Kumhar", "craft": "Blue Pottery", "region": "Jaipur, Rajasthan",
+    "state_id": "rajasthan", "experience_years": 30,
+    "story": "A third-generation potter, Mohan Lal shapes clay-free quartz bodies and hand-paints Persian florals in cobalt. He runs workshops near Amber to keep the delicate, low-fire craft alive.",
+    "skills": ["Quartz body preparation", "Cobalt & turquoise glazing", "Persian motifs"],
+    "products": ["Vases", "Tiles", "Tableware"],
+    "contact": "demo — enquire via BharatVerse",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Pottery_of_Jaipur.jpg"
+  },
+  {
+    "id": "seed-artisan-chikankari", "name": "Ayesha Begum", "craft": "Chikankari Embroidery", "region": "Lucknow, Uttar Pradesh",
+    "state_id": "uttar-pradesh", "experience_years": 25,
+    "story": "Ayesha has embroidered chikankari from her home in old Lucknow since she was fourteen, mastering the raised murri and phanda stitches. She now coordinates work for a group of forty women artisans.",
+    "skills": ["Murri & phanda stitches", "Jaali (net) work", "Fine muslin"],
+    "products": ["Kurtas", "Sarees", "Dupattas"],
+    "contact": "demo — enquire via BharatVerse",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chikan_embroidery.jpg"
+  },
+  {
+    "id": "seed-artisan-brass", "name": "Ramesh Verma", "craft": "Brass & Bell-metal Work", "region": "Varanasi, Uttar Pradesh",
+    "state_id": "uttar-pradesh", "experience_years": 27,
+    "story": "Ramesh casts and engraves brass lamps and ritual vessels used in the Ganga aarti, a craft his family has practised beside the ghats for generations.",
+    "skills": ["Sand casting", "Hand engraving", "Ritual vessel design"],
+    "products": ["Aarti lamps", "Puja thalis", "Idols"],
+    "contact": "demo — enquire via BharatVerse",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brass_lamps.jpg"
+  }
+]

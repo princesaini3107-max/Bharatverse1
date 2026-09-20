@@ -1,0 +1,34 @@
+[
+  {
+    "id": "har-godna", "practice": "Godna (Traditional Tattoo Art)", "region": "Mithila, Bihar", "state_id": "bihar",
+    "category": "Body & Folk Art",
+    "description": "Godna is an ancient tattoo and drawing tradition of the Mithila region, later adapted into a distinctive style of Madhubani painting using fine dotted lines.",
+    "why_it_matters": "Godna preserves motifs and a visual language older than paper-based Madhubani, and gave lower-caste women artists their own recognised style.",
+    "status_note": "Documented as practised by fewer artists today as demand shifts to mainstream Madhubani styles. BharatVerse presents this as contextual demo content, not an official endangerment listing.",
+    "related_artisans": ["seed-artisan-madhubani"]
+  },
+  {
+    "id": "har-manganiyar", "practice": "Manganiyar & Langa Desert Music", "region": "Thar Desert, Rajasthan", "state_id": "rajasthan",
+    "category": "Music",
+    "description": "The Manganiyar and Langa are hereditary communities of professional folk musicians in western Rajasthan, performing centuries-old repertoire on the kamaicha, sarangi and dholak.",
+    "why_it_matters": "Their oral repertoire encodes genealogy, history and Sufi-bhakti poetry of the desert, passed down without notation.",
+    "status_note": "Community musicians report that younger generations increasingly leave the profession for other work. Presented as demo context, not an official listing.",
+    "related_artisans": []
+  },
+  {
+    "id": "har-sujani", "practice": "Sujani Embroidery", "region": "Bhusura, Bihar", "state_id": "bihar",
+    "category": "Textile",
+    "description": "Sujani is a narrative quilting-embroidery of Bihar in which old cloth is layered and stitched into story-telling coverlets depicting village life and social messages.",
+    "why_it_matters": "Sujani is both a recycling craft and a rare women's storytelling medium addressing social themes; it carries a GI (Geographical Indication) tag.",
+    "status_note": "Sustained by a small number of cooperatives. BharatVerse presents this as contextual demo content.",
+    "related_artisans": []
+  },
+  {
+    "id": "har-kathputli", "practice": "Kathputli String Puppetry", "region": "Rajasthan", "state_id": "rajasthan",
+    "category": "Performing Art",
+    "description": "Kathputli is the traditional string-puppet theatre of Rajasthan, telling folk legends of kings and heroes with carved wooden puppets and live narration.",
+    "why_it_matters": "One of the oldest forms of folk entertainment in India, it carries oral history and regional legend.",
+    "status_note": "Puppeteer families report shrinking audiences and income. Presented as demo context, not an official endangerment listing.",
+    "related_artisans": []
+  }
+]

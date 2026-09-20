@@ -1,0 +1,20 @@
+{
+  "name": "bharatverse-server",
+  "version": "1.0.0",
+  "description": "BharatVerse Express + SQLite backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "seed": "node db/seed.js",
+    "dev": "node db/seed.js && node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

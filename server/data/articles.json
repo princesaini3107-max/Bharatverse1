@@ -1,0 +1,56 @@
+[
+  {
+    "id": "madhubani-painting", "title": "Madhubani: The Painted Walls of Mithila", "category": "Handicraft",
+    "state_id": "bihar", "read_min": 5,
+    "summary": "A 2,500-year-old folk painting tradition of Bihar, using natural dyes and double-line drawing to fill every space with gods, nature and geometry.",
+    "body": "Madhubani (or Mithila) painting comes from the Mithila region of Bihar and Nepal. Traditionally painted by women on the mud walls of their homes for weddings and festivals, it uses natural pigments, twigs, matchsticks and fingers. Its hallmark is a densely filled surface — no space left blank — with double-outline drawing and motifs of Krishna, the sun and moon, fish, peacocks and the sacred tulsi plant. Distinct styles include Bharni (colour-filled), Kachni (fine line), Godna (tattoo-inspired) and Tantrik. Since the 1960s it has moved onto paper and cloth, giving Mithila's women a source of income and global recognition.",
+    "significance": "Madhubani carries the cosmology and social memory of Mithila, and has become a rare example of a folk art that empowered rural women economically.",
+    "related_places": ["nalanda-ruins"], "related_artisans": ["seed-artisan-madhubani"],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madhubani_paintings.jpg"
+  },
+  {
+    "id": "phulkari", "title": "Phulkari: Flower Work of Punjab", "category": "Textile",
+    "state_id": "punjab", "read_min": 4,
+    "summary": "The 'flower work' embroidery of Punjab, where dense silk floss transforms a coarse cotton shawl into a garden.",
+    "body": "Phulkari literally means 'flower work'. Punjabi women traditionally embroidered these shawls (bagh and phulkari) for daughters' weddings, working silk floss (pat) onto handspun cotton khaddar from the reverse in a darning stitch. A 'bagh' (garden) covers the cloth entirely; a 'phulkari' leaves the base visible. Motifs record village life — wheat, mirrors, birds. Once nearly lost to machine production, phulkari is being revived by cooperatives across Punjab.",
+    "significance": "Phulkari is an heirloom art tied to birth, marriage and identity in Punjab, and a marker of a bride's family's love and labour.",
+    "related_places": ["golden-temple"], "related_artisans": ["seed-artisan-phulkari"],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phulkari_Dupatta.jpg"
+  },
+  {
+    "id": "kathak", "title": "Kathak: Storytelling in Motion", "category": "Dance",
+    "state_id": "uttar-pradesh", "read_min": 5,
+    "summary": "One of India's eight classical dances, born in the temples and Nawabi courts of North India.",
+    "body": "Kathak takes its name from 'katha' (story) — the kathakars were travelling bards who told epics through gesture. In the temples it was devotional; in the Mughal and Nawabi courts of Lucknow it became a refined art of rhythm, spins (chakkars) and expressive abhinaya. The Lucknow gharana emphasises grace and expression, the Jaipur gharana power and footwork. Ankle bells (ghungroo), the tabla and the sarangi accompany the dancer's intricate rhythmic cycles.",
+    "significance": "Kathak embodies the syncretic Hindu-Muslim culture of North India and remains one of the country's most-performed classical forms.",
+    "related_places": ["bara-imambara"], "related_artisans": [],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathak_Dance.jpg"
+  },
+  {
+    "id": "blue-pottery", "title": "Jaipur Blue Pottery", "category": "Handicraft",
+    "state_id": "rajasthan", "read_min": 4,
+    "summary": "A Turko-Persian ceramic craft, fired without clay, glowing in cobalt blue and turquoise.",
+    "body": "Jaipur's blue pottery is unusual: it contains no clay. The body is made from quartz, powdered glass, borax and gum, shaped, and painted with cobalt-oxide blue, copper turquoise and floral Persian motifs before a low firing. Brought to Jaipur from Persia via the Mughal courts, it was revived in the 20th century under royal and craft-council patronage. Because it uses no clay it is porous and delicate, prized for tiles, vases and tableware.",
+    "significance": "Blue pottery is a signature Jaipur craft and a living link to the Indo-Persian artistic exchange of the Mughal era.",
+    "related_places": ["hawa-mahal", "amber-fort"], "related_artisans": ["seed-artisan-bluepottery"],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Pottery_of_Jaipur.jpg"
+  },
+  {
+    "id": "chikankari", "title": "Chikankari: The White Shadow-work of Lucknow", "category": "Textile",
+    "state_id": "uttar-pradesh", "read_min": 4,
+    "summary": "Delicate white-on-white hand embroidery from Lucknow, said to have been introduced by Nur Jahan.",
+    "body": "Chikankari is a subtle, shadow-like hand embroidery worked in white thread on fine muslin and cotton. Legend credits its introduction to the Mughal empress Nur Jahan. Over thirty stitches — including the raised murri and phanda and the net-like jaali — build floral patterns inspired by Mughal architecture. Today thousands of artisans, many of them women working from home in and around Lucknow, sustain the craft.",
+    "significance": "Chikankari is Lucknow's textile identity and one of India's largest hand-embroidery livelihoods.",
+    "related_places": ["bara-imambara"], "related_artisans": ["seed-artisan-chikankari"],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chikan_embroidery.jpg"
+  },
+  {
+    "id": "ganga-aarti", "title": "The Ganga Aarti of Varanasi", "category": "Ritual",
+    "state_id": "uttar-pradesh", "read_min": 3,
+    "summary": "The nightly fire-worship of the river Ganga on the ghats of Varanasi.",
+    "body": "Every evening at Dashashwamedh Ghat, young priests in matching robes perform a synchronised aarti to the river Ganga, swinging multi-tiered brass lamps in slow arcs while conch shells sound and bells ring. Thousands watch from the steps and from boats on the water. The ritual thanks the river, worshipped as the goddess Ganga, and is among the most photographed spiritual experiences in India.",
+    "significance": "The aarti expresses the living relationship between the city, the river and Hindu devotion that has continued for centuries.",
+    "related_places": ["kashi-vishwanath-ghats"], "related_artisans": [],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganga_Aarti_Varanasi.jpg"
+  }
+]

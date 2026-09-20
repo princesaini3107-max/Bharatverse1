@@ -1,0 +1,186 @@
+[
+  {
+    "id": "amber-fort", "city_id": "jaipur", "state_id": "rajasthan", "name": "Amber Fort",
+    "category": "Fort", "type": "heritage",
+    "short": "Hilltop Rajput fort-palace of amber sandstone above Maota Lake.",
+    "description": "Amber (Amer) Fort is a majestic hilltop fortress built by Raja Man Singh I in 1592, blending Rajput and Mughal architecture. Its Sheesh Mahal (mirror palace), Diwan-i-Aam and terraced courtyards overlook Maota Lake.",
+    "significance": "A UNESCO World Heritage Site (as part of the Hill Forts of Rajasthan), it is one of the finest examples of Rajput military and palace architecture.",
+    "history": "Construction began under Raja Man Singh I in 1592 and continued under successive Kachhwaha rulers until the capital moved to Jaipur in 1727.",
+    "visiting_info": "Typically open daily ~8:00–17:30. Timings and ticket prices vary — confirm locally before visiting (demo information).",
+    "lat": 26.9855, "lng": 75.8513,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amber_Fort_Jaipur.jpg",
+    "related_vendors": ["seed-jaipur-guide", "seed-jaipur-craft"]
+  },
+  {
+    "id": "hawa-mahal", "city_id": "jaipur", "state_id": "rajasthan", "name": "Hawa Mahal",
+    "category": "Palace", "type": "heritage",
+    "short": "The five-storey 'Palace of Winds' with 953 latticed windows.",
+    "description": "Hawa Mahal, built in 1799 by Maharaja Sawai Pratap Singh, is a five-storey pink-sandstone facade of 953 small jharokha windows, designed so royal women could watch street life unseen while cool air flowed through.",
+    "significance": "An icon of Jaipur and of Rajput jharokha architecture; its honeycomb facade is among the most photographed in India.",
+    "history": "Designed by Lal Chand Ustad in the form of Krishna's crown in 1799.",
+    "visiting_info": "Usually open daily ~9:00–17:00 (demo information — verify locally).",
+    "lat": 26.9239, "lng": 75.8267,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawa_Mahal_2011.jpg",
+    "related_vendors": ["seed-jaipur-craft"]
+  },
+  {
+    "id": "city-palace-udaipur", "city_id": "udaipur", "state_id": "rajasthan", "name": "City Palace, Udaipur",
+    "category": "Palace", "type": "heritage",
+    "short": "A sprawling lakeside palace complex of the Mewar dynasty.",
+    "description": "Rising above Lake Pichola, the City Palace of Udaipur is a 400-year palace complex of courtyards, pavilions, balconies and cupolas built by successive Maharanas of Mewar.",
+    "significance": "The largest royal complex in Rajasthan and the ceremonial home of the Mewar dynasty, famed for its lake views and miniature-painted interiors.",
+    "history": "Founded by Maharana Udai Singh II in 1559 when he established Udaipur as the Mewar capital.",
+    "visiting_info": "Museum generally open daily ~9:30–17:30 (demo information — verify locally).",
+    "lat": 24.5764, "lng": 73.6835,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/City_Palace_Udaipur_2017.jpg",
+    "related_vendors": ["seed-udaipur-hotel"]
+  },
+  {
+    "id": "jaisalmer-fort", "city_id": "jaisalmer", "state_id": "rajasthan", "name": "Jaisalmer Fort",
+    "category": "Fort", "type": "heritage",
+    "short": "A living golden-sandstone fort still inhabited in the Thar Desert.",
+    "description": "Jaisalmer Fort (Sonar Qila) is one of the very few 'living forts' in the world, with a quarter of the old city's population still living within its golden ramparts.",
+    "significance": "A UNESCO World Heritage Site and a rare inhabited medieval fort, glowing gold at sunset above the Thar.",
+    "history": "Built in 1156 by the Rajput ruler Rawal Jaisal.",
+    "visiting_info": "Fort lanes are open through the day; many havelis and temples inside charge separate entry (demo information).",
+    "lat": 26.9127, "lng": 70.9124,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaisalmer_Fort.jpg",
+    "related_vendors": ["seed-jaisalmer-exp"]
+  },
+
+  {
+    "id": "golden-temple", "city_id": "amritsar", "state_id": "punjab", "name": "Golden Temple (Harmandir Sahib)",
+    "category": "Religious", "type": "heritage",
+    "short": "The holiest gurdwara of Sikhism, gilded and set in a sacred pool.",
+    "description": "The Golden Temple, or Harmandir Sahib, is the spiritual centre of Sikhism — a gold-plated sanctum in the middle of the Amrit Sarovar (pool of nectar), open on all four sides to symbolise openness to all people.",
+    "significance": "The holiest site in Sikhism, home to the continuous reading of the Guru Granth Sahib and the world's largest free community kitchen (langar), which serves tens of thousands daily.",
+    "history": "The sarovar was completed by Guru Ram Das in 1577; the temple was built by Guru Arjan and later gold-plated under Maharaja Ranjit Singh in the early 19th century.",
+    "visiting_info": "Open to all, 24 hours, free of charge. Heads must be covered and shoes removed (documented practice).",
+    "lat": 31.6200, "lng": 74.8765,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Temple_India.jpg",
+    "related_vendors": ["seed-amritsar-food", "seed-amritsar-hotel"]
+  },
+  {
+    "id": "jallianwala-bagh", "city_id": "amritsar", "state_id": "punjab", "name": "Jallianwala Bagh",
+    "category": "Memorial", "type": "heritage",
+    "short": "Memorial garden of the 1919 massacre.",
+    "description": "Jallianwala Bagh is a public garden and memorial commemorating the hundreds of unarmed Indians killed when British troops opened fire on a peaceful gathering on 13 April 1919.",
+    "significance": "A turning point in India's freedom struggle; the bullet-marked walls and Martyrs' Well are preserved as a national memorial.",
+    "history": "The massacre of 13 April 1919 galvanised nationwide opposition to British rule.",
+    "visiting_info": "Open daily; free entry (demo information — verify locally).",
+    "lat": 31.6205, "lng": 74.8800,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jallianwala_Bagh_July_2016.jpg",
+    "related_vendors": []
+  },
+  {
+    "id": "rock-garden", "city_id": "chandigarh", "state_id": "punjab", "name": "Rock Garden of Chandigarh",
+    "category": "Art", "type": "experience",
+    "short": "A surreal sculpture garden built from recycled waste.",
+    "description": "Nek Chand's Rock Garden is a 40-acre fantasy of courtyards, waterfalls and thousands of sculptures made from industrial and domestic waste — broken tiles, bangles and ceramics.",
+    "significance": "A world-famous example of outsider art and recycling, built secretly over years by a single government official.",
+    "history": "Started clandestinely by Nek Chand Saini in 1957 and opened to the public in 1976.",
+    "visiting_info": "Usually open daily ~9:00–18:00 (demo information — verify locally).",
+    "lat": 30.7526, "lng": 76.8100,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock_Garden_Chandigarh_2.jpg",
+    "related_vendors": []
+  },
+
+  {
+    "id": "taj-mahal", "city_id": "agra", "state_id": "uttar-pradesh", "name": "Taj Mahal",
+    "category": "Mausoleum", "type": "heritage",
+    "short": "The white-marble mausoleum of love, a wonder of the world.",
+    "description": "The Taj Mahal is a white-marble mausoleum built by Mughal emperor Shah Jahan for his wife Mumtaz Mahal. Its perfect symmetry, pietra dura inlay and changing light make it the most celebrated building in India.",
+    "significance": "A UNESCO World Heritage Site and one of the New Seven Wonders of the World, the pinnacle of Mughal architecture.",
+    "history": "Commissioned in 1631 and completed around 1653 using artisans from across the empire and beyond.",
+    "visiting_info": "Open sunrise to sunset, closed Fridays. Ticket prices vary by nationality (demo information — verify locally).",
+    "lat": 27.1751, "lng": 78.0421,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_in_March_2004.jpg",
+    "related_vendors": ["seed-agra-guide"]
+  },
+  {
+    "id": "kashi-vishwanath-ghats", "city_id": "varanasi", "state_id": "uttar-pradesh", "name": "Dashashwamedh Ghat & Ganga Aarti",
+    "category": "Religious", "type": "experience",
+    "short": "The grand riverfront where the nightly Ganga aarti is performed.",
+    "description": "Dashashwamedh is the main and most spectacular ghat of Varanasi, where priests perform the choreographed Ganga aarti each evening with fire lamps, conch shells and chanting before crowds on the steps and boats.",
+    "significance": "The spiritual and ceremonial centre of the world's oldest living city; a defining Hindu pilgrimage experience.",
+    "history": "The ghat's name refers to a mythological ten-horse sacrifice by Lord Brahma; the site has hosted worship for centuries.",
+    "visiting_info": "Ganga aarti is held every evening after sunset; boat viewing is popular (documented practice; timings seasonal).",
+    "lat": 25.3050, "lng": 83.0104,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dashashwamedh_Ghat.jpg",
+    "related_vendors": ["seed-varanasi-silk"]
+  },
+  {
+    "id": "bara-imambara", "city_id": "lucknow", "state_id": "uttar-pradesh", "name": "Bara Imambara",
+    "category": "Monument", "type": "heritage",
+    "short": "A grand Awadhi complex with the famous Bhulbhulaiya labyrinth.",
+    "description": "The Bara Imambara is a vast 18th-century Awadhi monument whose central hall is one of the largest arched spaces built without supporting beams. Its upper floor is the Bhulbhulaiya, a maze of interconnected passages.",
+    "significance": "A masterpiece of Awadhi architecture built as a famine-relief project, and a symbol of Lucknow's Nawabi heritage.",
+    "history": "Commissioned by Nawab Asaf-ud-Daula in 1784 to provide employment during a famine.",
+    "visiting_info": "Usually open daily ~6:00–17:00; guides recommended for the maze (demo information — verify locally).",
+    "lat": 26.8698, "lng": 80.9128,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bara_Imambara_Lucknow.jpg",
+    "related_vendors": ["seed-lucknow-chikan"]
+  },
+
+  {
+    "id": "mahabodhi-temple", "city_id": "bodh-gaya", "state_id": "bihar", "name": "Mahabodhi Temple",
+    "category": "Religious", "type": "heritage",
+    "short": "The temple beside the Bodhi Tree where the Buddha was enlightened.",
+    "description": "The Mahabodhi Temple complex marks the spot where Siddhartha Gautama attained enlightenment under the Bodhi Tree. A descendant of that very tree still grows beside the towering brick temple.",
+    "significance": "A UNESCO World Heritage Site and the holiest place in Buddhism, drawing pilgrims and monks from across the world.",
+    "history": "The original shrine was built by Emperor Ashoka in the 3rd century BCE; the present temple dates largely to the Gupta period (5th–6th century CE).",
+    "visiting_info": "Open daily to pilgrims; meditation under the Bodhi Tree is common (documented practice).",
+    "lat": 24.6961, "lng": 84.9914,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabodhi_temple.jpg",
+    "related_vendors": ["seed-bodhgaya-guide"]
+  },
+  {
+    "id": "nalanda-ruins", "city_id": "nalanda", "state_id": "bihar", "name": "Nalanda Mahavihara (Ruins)",
+    "category": "Archaeological", "type": "heritage",
+    "short": "Ruins of the ancient university that taught 10,000 students.",
+    "description": "Nalanda was one of the world's first residential universities, a Buddhist Mahavihara whose red-brick monasteries, temples and lecture halls once housed thousands of monks and scholars from across Asia.",
+    "significance": "A UNESCO World Heritage Site and a symbol of ancient India's intellectual achievement in logic, medicine, mathematics and philosophy.",
+    "history": "Founded in the 5th century CE under the Gupta emperors; it flourished for 700 years before being destroyed around 1200 CE.",
+    "visiting_info": "Archaeological site open daily except Fridays; adjoining museum recommended (demo information — verify locally).",
+    "lat": 25.1358, "lng": 85.4436,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda_University_ruins.jpg",
+    "related_vendors": []
+  },
+
+  {
+    "id": "red-fort", "city_id": "old-delhi", "state_id": "delhi", "name": "Red Fort (Lal Qila)",
+    "category": "Fort", "type": "heritage",
+    "short": "The red-sandstone Mughal fort from which India's PM addresses the nation.",
+    "description": "The Red Fort was the fortified palace of the Mughal emperors at Shahjahanabad. Its massive red-sandstone walls enclose marble palaces, the Diwan-i-Khas and lush gardens.",
+    "significance": "A UNESCO World Heritage Site and national symbol — the Prime Minister raises the flag and addresses the country here every Independence Day.",
+    "history": "Built by Shah Jahan between 1638 and 1648 when he moved the Mughal capital from Agra to Delhi.",
+    "visiting_info": "Open daily except Mondays, ~9:30–16:30; evening sound-and-light show available (demo information — verify locally).",
+    "lat": 28.6562, "lng": 77.2410,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_Fort_in_Delhi_03-2016.jpg",
+    "related_vendors": ["seed-delhi-food"]
+  },
+  {
+    "id": "qutub-minar", "city_id": "new-delhi", "state_id": "delhi", "name": "Qutub Minar",
+    "category": "Monument", "type": "heritage",
+    "short": "The world's tallest brick minaret, begun in 1192.",
+    "description": "The Qutub Minar is a 73-metre fluted victory tower of red sandstone and marble, covered in intricate carving and Quranic inscriptions, set in a complex of early Indo-Islamic ruins including the rust-resistant Iron Pillar.",
+    "significance": "A UNESCO World Heritage Site marking the start of Muslim rule in India and the finest early Indo-Islamic architecture.",
+    "history": "Begun by Qutb-ud-din Aibak in 1192 and completed by his successors; later rulers added storeys after lightning damage.",
+    "visiting_info": "Open daily sunrise to sunset (demo information — verify locally).",
+    "lat": 28.5245, "lng": 77.1855,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qutb_Minar_2011.jpg",
+    "related_vendors": []
+  },
+  {
+    "id": "humayuns-tomb", "city_id": "new-delhi", "state_id": "delhi", "name": "Humayun's Tomb",
+    "category": "Mausoleum", "type": "heritage",
+    "short": "The garden-tomb that inspired the Taj Mahal.",
+    "description": "Humayun's Tomb is a red-sandstone-and-marble Mughal mausoleum set in a formal Persian charbagh garden — the first grand garden-tomb in the subcontinent and a template for the Taj Mahal.",
+    "significance": "A UNESCO World Heritage Site and a landmark in the evolution of Mughal architecture.",
+    "history": "Commissioned in 1565 by Humayun's widow Bega Begum and completed around 1572.",
+    "visiting_info": "Open daily sunrise to sunset (demo information — verify locally).",
+    "lat": 28.5933, "lng": 77.2507,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Humayun%27s_Tomb%2C_Delhi.jpg",
+    "related_vendors": []
+  }
+]
